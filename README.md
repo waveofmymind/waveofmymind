@@ -20,9 +20,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjun0913)](https://solved.ac/sjun0913)
 --->
+### 📚 [Studying](https://github.com/waveofmymind/study.git)
 
-### 📚 [STUDYING](https://github.com/waveofmymind/study.git)
-
-### [ToyProject]
+### 📝 ToyProject
 ---
 - [Blog With Spring Security and OAuth2.0](https://github.com/waveofmymind/blog)
