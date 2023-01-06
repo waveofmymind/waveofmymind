@@ -10,9 +10,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=waveofmymind)](https://velog.io/@waveofmymind)
 
-<a href="https://www.instagram.com/jeonsangjuun_/">
- <img src="https://img.shields.io/badge/Instagram-444444?style=flat&logo=Instagram&logoColor=fd5b86"/>
-</a>
 
 
 
