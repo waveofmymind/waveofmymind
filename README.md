@@ -22,3 +22,7 @@
 --->
 
 ### 📚 [STUDYING](https://github.com/waveofmymind/study.git)
+
+### [ToyProject]
+---
+- [Blog With Spring Security and OAuth2.0](https://github.com/waveofmymind/blog)
