@@ -1,5 +1,5 @@
 ### 🌊 waveofmymind
-> More worthwhile, With a heart that always moves forward
+> More worthwhile, With the mind to always move forward
 
 - I am currently working on **broadening my horizons**.
   - studying - JAVA, Spring, Spring Boot, MySQL, JPA.
