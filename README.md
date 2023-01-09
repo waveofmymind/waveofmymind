@@ -1,7 +1,7 @@
 ### 🌊 waveofmymind
 > More worthwhile, With the mind to always move forward
 
-- I am currently working on **broadening my horizons**.
+- I am currently working on **learning even more**.
   - studying - JAVA, Spring, Spring Boot, MySQL, JPA.
   - making - An application that can review algorithms as a side project.
   - enjoyed learning - React, Python.
