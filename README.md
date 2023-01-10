@@ -20,7 +20,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjun0913)](https://solved.ac/sjun0913)
 --->
-### 📚 [Studying](https://github.com/waveofmymind/study.git)
+### 📚 [SPRING & JAVA](https://github.com/waveofmymind/study.git)
+
+### 📚 [알고리즘 문제 풀이](https://github.com/waveofmymind/pythonic)
 
 ### 📝 ToyProject
 ---
