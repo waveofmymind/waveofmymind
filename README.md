@@ -10,9 +10,16 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=waveofmymind)](https://velog.io/@waveofmymind)
 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring콘&logoColor=white">
 
+📚 STACKS
+---
+<img src="https://img.shields.io/badge/Java-004088?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <!---
 🍃SPRING 🍃SPRING-BOOT ☕JAVA 🐍PYTHON 📊MYSQL 📊H2
