@@ -10,8 +10,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=waveofmymind)](https://velog.io/@waveofmymind)
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring콘&logoColor=white">
-
 📚 STACKS
 ---
 <img src="https://img.shields.io/badge/Java-004088?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
