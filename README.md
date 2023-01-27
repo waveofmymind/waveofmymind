@@ -2,7 +2,7 @@
 > For worthwhile Code, With the mind to always move forward
 
 - I am currently working on **learning even more**.
-  - studying - JAVA, Spring, Spring Boot, MySQL, JPA.
+  - studying - Java, Spring MVC, Spring Boot, MySQL, JPA, Querydsl.
   - making - An application that can review algorithms as a side project.
   - enjoyed learning - React, Python.
 
