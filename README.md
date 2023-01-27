@@ -1,5 +1,5 @@
 ### 🌊 waveofmymind
-> More worthwhile, With the mind to always move forward
+> For worthwhile Code, With the mind to always move forward
 
 - I am currently working on **learning even more**.
   - studying - JAVA, Spring, Spring Boot, MySQL, JPA.
@@ -7,8 +7,6 @@
   - enjoyed learning - React, Python.
 
 ---
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=waveofmymind)](https://velog.io/@waveofmymind)
 
 📚 STACKS
 ---
