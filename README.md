@@ -1,5 +1,5 @@
 ### 🌊 waveofmymind
-> For worthwhile Code, With the mind to always move forward
+> For worthwhile Coding, With the mind to always move forward
 
 - I am currently working on **learning even more**.
   - studying - Java, Spring MVC, Spring Boot, MySQL, JPA, Querydsl.
@@ -29,7 +29,7 @@
 
 ### Project
 ---
-- [코딩테스트 문제 도우미](https://github.com/waveofmymind/ars)
+- [코딩테스트 문제 도우미](https://github.com/waveofmymind/arh)
 
 ### 📝 ToyProject
 ---
