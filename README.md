@@ -23,11 +23,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjun0913)](https://solved.ac/sjun0913)
 --->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
+
 ### 📚 [SPRING & JAVA](https://github.com/waveofmymind/study.git)
 
 ### 📚 [알고리즘 문제 풀이](https://github.com/waveofmymind/pythonic)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
 
 ### Project
 ---
