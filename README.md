@@ -27,6 +27,8 @@
 
 ### 📚 [알고리즘 문제 풀이](https://github.com/waveofmymind/pythonic)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
+
 ### Project
 ---
 - [코딩테스트 문제 도우미](https://github.com/waveofmymind/arh)
