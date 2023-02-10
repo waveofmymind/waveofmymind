@@ -1,10 +1,10 @@
 ### 🌊 waveofmymind
-> For worthwhile Coding, With the mind to always move forward
+> 
 
 - I am currently working on **learning even more**.
   - studying - Java, Spring MVC, Spring Boot, MySQL, JPA, Querydsl.
   - making - An application that can review algorithms as a side project.
-  - enjoyed learning - React, Python.
+  - enjoyed learning - Python.
 
 ---
 
@@ -14,7 +14,6 @@
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <!---
@@ -32,7 +31,7 @@
 
 ### Project
 ---
-- [코딩테스트 문제 도우미](https://github.com/waveofmymind/arh)
+- [코딩테스트 문제 도우미 프로젝트](https://github.com/waveofmymind/arh)
 
 ### 📝 ToyProject
 ---
