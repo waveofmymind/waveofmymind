@@ -15,6 +15,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
 <!---
 🍃SPRING 🍃SPRING-BOOT ☕JAVA 🐍PYTHON 📊MYSQL 📊H2
 ![waveofmymind's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)   
