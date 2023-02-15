@@ -3,7 +3,6 @@
 
 - I am currently working on **learning even more**.
   - studying - Java, Spring MVC, Spring Boot, MySQL, JPA, Querydsl.
-  - making - An application that can review algorithms as a side project.
   - enjoyed learning - Python.
 
 ---
