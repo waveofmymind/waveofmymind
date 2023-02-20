@@ -32,7 +32,7 @@
 
 ### Project
 ---
-- [코딩테스트 문제 도우미 프로젝트](https://github.com/waveofmymind/arh)
+- [코딩테스트 문제 도우미 프로젝트](https://github.com/waveofmymind/myarh)
 
 ### 📝 ToyProject
 ---
