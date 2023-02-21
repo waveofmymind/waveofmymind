@@ -9,7 +9,7 @@
 
 📚 STACKS
 ---
-### BE
+### BackEnd
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -31,7 +31,7 @@
 
 ### Project
 ---
-- [코딩테스트 문제 도우미 프로젝트](https://github.com/waveofmymind/myarh)
+- [알고리즘 리뷰 도우미](https://github.com/waveofmymind/myarh)
 
 ### 📝 ToyProject
 ---
