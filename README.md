@@ -4,8 +4,7 @@
 - I am currently working on **learning even more**.
 
   - studying - Java, Spring MVC, Spring Boot, MySQL, JPA, Querydsl.
-  - enjoyed learning - AWS Cloud Environment
-
+  - enjoyed learning - Spring With Kotlin
 ---
 
 📚 STACKS
@@ -13,6 +12,7 @@
 ### BackEnd
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
