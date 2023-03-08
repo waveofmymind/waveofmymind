@@ -7,9 +7,7 @@
   - enjoyed learning - Kotlin
 ---
 
-📚 STACKS
----
-### BackEnd
+
 
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
@@ -17,14 +15,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
 
-### Infra
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-
-![image](https://user-images.githubusercontent.com/93868431/220957905-45fa28de-de2a-42f0-ba11-248c62f32c7e.png)
 
 
 
