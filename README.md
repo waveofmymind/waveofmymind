@@ -3,8 +3,8 @@
 
 - I am currently working on **learning even more**.
 
-  - studying - Java, Spring MVC, Spring Boot, MySQL, JPA, Querydsl.
-  - enjoyed learning - Spring With Kotlin
+  - studying - Spring Boot
+  - enjoyed learning - Kotlin
 ---
 
 📚 STACKS
