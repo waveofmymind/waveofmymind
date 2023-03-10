@@ -1,7 +1,7 @@
 ### 🌊 waveofmymind
 > 
 
-- I am currently working on **learning even more**.
+- I am currently working on a variety of problems and solving them.
 
   - studying - Spring Boot
   - enjoyed learning - Kotlin
