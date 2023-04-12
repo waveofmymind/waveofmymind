@@ -4,7 +4,7 @@
 
 - I am currently working on **a variety of problems and solving them**.
 
-  - studying - Spring Boot, Java
+  - studying - Java, Spring Boot, Spring Data JPA
   - enjoyed learning - Kotlin
 ---
 
