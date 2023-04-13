@@ -18,16 +18,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
 
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
-
-### 📚 [SPRING & JAVA](https://github.com/waveofmymind/study.git)
-
-### 📚 [알고리즘 문제 풀이](https://github.com/waveofmymind/pythonic)
-
-### Project
----
-- [알고리즘 리뷰 도우미](https://github.com/waveofmymind/myarh)
-
 
