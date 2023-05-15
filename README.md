@@ -4,8 +4,8 @@
 
 - I am currently working on **a variety of problems and solving them**.
 
-  - studying - Kotlin, Spring Boot, Spring Data JPA
-  - enjoyed learning - Spring Webflux
+  - studying - Kotlin, Spring Webflux, Spring Data R2DBC
+  - enjoyed learning - Spring Boot
 ---
 
 
