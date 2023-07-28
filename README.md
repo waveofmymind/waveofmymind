@@ -5,6 +5,7 @@
 - I am currently working on **a variety of problems and solving them**.
 
   - studying - Kotlin, Spring Boot
+  - focusing - Event Driven Architecture with Kafka, k8s
 <!--   - enjoyed learning - Spring Boot -->
 ---
 
