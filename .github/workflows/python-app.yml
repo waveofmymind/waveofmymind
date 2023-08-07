@@ -1,0 +1,49 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 */1 * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+    - name: Run Update Python Script
+      run: |
+        python update_readme.py
+    - name: Update README.md file
+      run: |
+        git pull
+        git add .
+        git diff
+        git config --local user.email github-action@github.com
+        git config --local user.name github-action
+        git commit -m "Update README.md"
+        git push
+  main:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
