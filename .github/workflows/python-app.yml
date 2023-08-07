@@ -29,7 +29,7 @@ jobs:
         git config --local user.name github-action
         git commit -m "Update README.md"
         git push
-  main:
+  update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
