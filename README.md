@@ -5,9 +5,9 @@
 
   - 👀 studying - Kotlin, Spring Boot
   - 🎯 focusing - Kafka, Redis
-<!--   - enjoyed learning - Spring Boot -->
 ---
 
+### 🛠️ Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -18,9 +18,12 @@
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### Contribution
+---
+
+### 📮 Contribution
 
 - Line: [kotlin-jdsl](https://github.com/line/kotlin-jdsl/pull/405)
+---
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
