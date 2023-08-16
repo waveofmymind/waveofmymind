@@ -20,12 +20,6 @@
 
 ---
 
-### 📮 Contribution
-
-- Line: [kotlin-jdsl](https://github.com/line/kotlin-jdsl/pull/405)
----
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
 
 
