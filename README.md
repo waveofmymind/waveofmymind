@@ -4,7 +4,6 @@
 - I am currently working on **a variety of problems and solving them**.
 
   - 👀 studying - Kotlin, Spring Boot
-  - 🎯 focusing - Kafka, Redis
 ---
 
 ### 🛠️ Tech Stack
