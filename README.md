@@ -17,10 +17,12 @@
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+---
+
 ### 📮 Contribution
 
-- line/kotlin-jdsl
-    - Implemenrt JpqlSerializer
+- **line/kotlin-jdsl**
+    - Implement JpqlSerializer
     - Add unit test for JpqlSerializer
 
 ---
