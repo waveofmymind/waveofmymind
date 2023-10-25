@@ -17,6 +17,12 @@
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+### 📮 Contribution
+
+- line/kotlin-jdsl
+    - Implemenrt JpqlSerializer
+    - Add unit test for JpqlSerializer
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
