@@ -19,6 +19,13 @@
 
 ---
 
+- **line/kotlin-jdsl**
+    - Implement JpqlSerializer
+    - Add missing unit test
+    - Correct typo in some docs
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
 
 
