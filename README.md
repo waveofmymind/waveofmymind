@@ -19,14 +19,6 @@
 
 ---
 
-### 📮 Contribution
-
-- **line/kotlin-jdsl**
-    - Implement JpqlSerializer
-    - Add unit test for JpqlSerializer
-
----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveofmymind&show_icons=true&theme=dark)
 
 
