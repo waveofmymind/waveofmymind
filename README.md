@@ -4,7 +4,8 @@
 - I am currently working on **a variety of problems and solving them**.
 
   - 👀 Studying - Kotlin, Spring Boot
-  - 🤩 Interesting - Coroutines With Kotlin
+  - 🤩 Interesting - Coroutines with Kotlin
+  - 📖 Reading - [코틀린 코루틴](https://www.yes24.com/Product/Goods/123034354)
 ---
 
 ### 🛠️ Tech Stack
