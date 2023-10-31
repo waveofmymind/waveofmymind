@@ -3,7 +3,8 @@
 
 - I am currently working on **a variety of problems and solving them**.
 
-  - 👀 studying - Kotlin, Spring Boot
+  - 👀 Studying - Kotlin, Spring Boot
+  - 🤩 Interesting - Coroutines With Kotlin
 ---
 
 ### 🛠️ Tech Stack
