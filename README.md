@@ -4,7 +4,7 @@
 
   - 👀 Studying - Kotlin, Spring Boot
   - 🤩 Interesting - Coroutines with Kotlin
-  - 📖 Reading - [Kafka in Action](https://www.yes24.com/Product/Goods/122679091), [Kotlin Coroutines](https://www.yes24.com/Product/Goods/123034354)
+  - 📖 Reading - [Kafka in Action](https://www.yes24.com/Product/Goods/122679091), [Kotlin Coroutines](https://www.yes24.com/Product/Goods/123034354), [Redis For Developers](https://www.yes24.com/Product/Goods/123182350)
 ---
 
 ### 🛠️ Tech Stack
