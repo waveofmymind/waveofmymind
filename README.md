@@ -3,7 +3,6 @@
 - I am currently working on **a variety of problems and solving them**.
 
   - 👀 Studying - Kotlin, Spring Boot
-  - 🤩 Interesting - Webflux
   - 📖 Reading - [Kafka in Action](https://www.yes24.com/Product/Goods/122679091), [Kotlin Coroutines](https://www.yes24.com/Product/Goods/123034354), [Redis For Developers](https://www.yes24.com/Product/Goods/123182350)
 ---
 
