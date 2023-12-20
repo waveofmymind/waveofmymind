@@ -2,7 +2,8 @@
 
 - I am currently working on **a variety of problems and solving them**.
 
-  - 👀 Studying - Kotlin, Spring Boot
+  - 👀 Studying - Docker
+    
 ---
 
 ### 🛠️ Tech Stack
