@@ -22,10 +22,10 @@
 
 ### 📮 Contribution
 
-- **line/kotlin-jdsl**
-    - Implement JpqlSerializer
-    - Add missing unit test
-    - Correct typo in some docs
+**line/kotlin-jdsl**
+- Implement JpqlSerializer
+- Add missing unit test
+- Correct typo in some docs
 
 ---
 
