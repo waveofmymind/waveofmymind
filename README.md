@@ -3,7 +3,6 @@
 - I am currently working on **a variety of problems and solving them**.
 
   - 👀 Studying - Python, DRF
-  - 📖 Reading - Robust Python
     
 ---
 
