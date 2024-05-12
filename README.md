@@ -20,7 +20,7 @@
 ### 📮 Contribution
 
 **line/kotlin-jdsl**
-- Implement JpqlSerializer
+- Support to 3.0
 - Add missing unit test
 - Correct typo in some docs
 
